@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @siegefried2001.
+- 👋 Hi, I’m Devasya Takkar.
 - 👀 I’m interested in Web Development,Machine Learning and Competitive Programming.
 - 🌱 I’m currently learning CP,Flask,Django and ML.Starting out with open source :)
 - 📫 Looking for sde and/or analytics internship opportunities.
