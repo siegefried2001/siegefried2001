@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @siegefried2001.
 - 👀 I’m interested in Web Development,Machine Learning and Competitive Programming.
-- 🌱 I’m currently learning CP,Django,ML.
+- 🌱 I’m currently learning CP,Flask,Django and ML.Starting out with open source :)
 - 📫 Looking for sde and/or analytics internship opportunities.
 - 💞️ I’m looking to collaborate on projects oriented towards Web development and ML.
 - 📫 Reach me on my mail- devasya6032@gmail.com.
